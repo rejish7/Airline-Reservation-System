@@ -71,7 +71,6 @@ src/main/airline/reservation/
 ### Compilation
 Navigate to the project directory and compile:
 ```cmd
-cd "d:\classes\bca\Third semester\java_programming\projects\Airline Reservation System\src\main"
 javac airline/reservation/*.java airline/reservation/entity/*.java airline/reservation/repository/*.java airline/reservation/service/*.java airline/reservation/util/*.java
 ```
 
